@@ -31,6 +31,6 @@ public class Show extends Frame implements ActionListener {
  
     @Override
     public void actionPerformed(ActionEvent e) {
-        textField.setText("Welcome to Java AWT");
+        textField.setText("Welcome to White Java Code");
     }
 }
